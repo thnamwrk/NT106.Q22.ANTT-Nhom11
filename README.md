@@ -1,9 +1,8 @@
 # NT106.Q22.ANTT-Nhom11
-Đăng ký, đăng nhập, đăng xuất và quản lý mật khẩu người dùng
-Thiết lập kết nối giữa các máy tính trong cùng mạng nội bộ
-Hiển thị danh sách các máy tính khả dụng
-Xác nhận quyền truy cập từ máy bị điều khiển
-Truyền và hiển thị màn hình máy tính từ xa
-Điều khiển chuột và bàn phím theo thời gian thực
-Quản lý trạng thái kết nối và xử lý ngắt kết nối
-Ghi nhận và hiển thị lịch sử các phiên điều khiển
+
+- Đăng ký, đăng nhập, quên mật khẩu, xác thực
+- Gameplay Caro Basic
+- Chat trong trận ( emoji, text ). Kết bạn
+- Tạo phòng chơi / tham gia chơi vào phòng có sẵn / chơi với máy ( AI )
+- Xem Bảng xếp hạng dựa trên điểm cộng trận thắng
+- Server : Cảnh báo đến người chơi ( Gian lận , thô tục ) , thông báo bảo trì . Quản lý dữ liệu người chơi 
